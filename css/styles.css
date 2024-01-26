@@ -11326,3 +11326,10 @@ section#contact form#contactForm :-ms-input-placeholder {
   width: 33.33%;
   padding: 5px;
 }
+
+.nameLogo {
+  color: white;
+  font-family: Impact, fantasy;
+  font-size: 2rem;
+  letter-spacing: 0.25rem;
+}
